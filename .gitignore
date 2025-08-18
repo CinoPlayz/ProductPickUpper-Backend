@@ -3,3 +3,5 @@
 config/cert.pem
 config/key.pem
 config/generate\ key\ and\ pem\ windows.txt
+.env
+tokens
